@@ -1,1 +1,3 @@
-go 1.157
+module github.com/Baccanimonium/goRestApi
+
+go 1.16
